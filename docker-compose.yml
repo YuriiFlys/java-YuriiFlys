@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+    image: 'rest:latest'
+    container_name: app
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:h2:file:/data/productsDB
+      SPRING_DATASOURCE_USERNAME: ${DB_USERNAME:-sa}
+      SPRING_DATASOURCE_PASSWORD: ${DB_PASSWORD:-}
+      SPRING_JPA_HIBERNATE_DDL_AUTO: update
+    ports:
+      - '8080:8080'
+    volumes:
+      - .:/data
