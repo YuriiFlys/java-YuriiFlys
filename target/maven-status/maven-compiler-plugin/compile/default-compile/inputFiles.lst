@@ -1,0 +1,14 @@
+D:\Java(Homework)\dofd-05-java-YuriiFlys-main\src\main\java\softserve\academy\simplecrud\model\response\ProductCreated.java
+D:\Java(Homework)\dofd-05-java-YuriiFlys-main\src\main\java\softserve\academy\simplecrud\model\response\ProductUpdated.java
+D:\Java(Homework)\dofd-05-java-YuriiFlys-main\src\main\java\softserve\academy\simplecrud\model\response\ProductDto.java
+D:\Java(Homework)\dofd-05-java-YuriiFlys-main\src\main\java\softserve\academy\simplecrud\controller\ProductController.java
+D:\Java(Homework)\dofd-05-java-YuriiFlys-main\src\main\java\softserve\academy\simplecrud\model\response\ProductDeleted.java
+D:\Java(Homework)\dofd-05-java-YuriiFlys-main\src\main\java\softserve\academy\simplecrud\SimplecrudApplication.java
+D:\Java(Homework)\dofd-05-java-YuriiFlys-main\src\main\java\softserve\academy\simplecrud\model\request\PatchProduct.java
+D:\Java(Homework)\dofd-05-java-YuriiFlys-main\src\main\java\softserve\academy\simplecrud\config\AppConfig.java
+D:\Java(Homework)\dofd-05-java-YuriiFlys-main\src\main\java\softserve\academy\simplecrud\service\ProductService.java
+D:\Java(Homework)\dofd-05-java-YuriiFlys-main\src\main\java\softserve\academy\simplecrud\model\entity\Product.java
+D:\Java(Homework)\dofd-05-java-YuriiFlys-main\src\main\java\softserve\academy\simplecrud\controller\advice\ErrorController.java
+D:\Java(Homework)\dofd-05-java-YuriiFlys-main\src\main\java\softserve\academy\simplecrud\exception\ProductNotFoundException.java
+D:\Java(Homework)\dofd-05-java-YuriiFlys-main\src\main\java\softserve\academy\simplecrud\repository\ProductRepository.java
+D:\Java(Homework)\dofd-05-java-YuriiFlys-main\src\main\java\softserve\academy\simplecrud\model\request\NewProduct.java
