@@ -16,8 +16,8 @@
     <properties>
         <java.version>17</java.version>
         <sonar.host.url>http://localhost:9000</sonar.host.url>
-        <sonar.projectKey>java-SoftServe-YuriiFlys</sonar.projectKey>
-        <sonar.login>squ_e62d53ec7a8d5cbd586b0e4559de6f9b1113cb19</sonar.login>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
     </properties>
     <dependencies>
         <dependency>
